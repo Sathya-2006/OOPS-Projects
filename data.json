@@ -1,0 +1,20 @@
+{
+    "books": [
+        {
+            "book_id": 101,
+            "title": "Python Programming",
+            "author": "Guido van Rossum",
+            "is_issued": false,
+            "issued_to": null,
+            "issue_date": null,
+            "due_date": null
+        }
+    ],
+    "members": [
+        {
+            "member_id": 1,
+            "name": "sathyaruba",
+            "borrowed_books": []
+        }
+    ]
+}
